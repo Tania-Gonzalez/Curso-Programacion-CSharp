@@ -1,0 +1,10 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\FormsTimer\FormsTimer\bin\Debug\FormsTimer.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\FormsTimer\FormsTimer\bin\Debug\FormsTimer.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\FormsTimer\FormsTimer\bin\Debug\FormsTimer.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\FormsTimer\FormsTimer\obj\Debug\FormsTimer.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\FormsTimer\FormsTimer\obj\Debug\FormsTimer.Form1.resources
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\FormsTimer\FormsTimer\obj\Debug\FormsTimer.Properties.Resources.resources
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\FormsTimer\FormsTimer\obj\Debug\FormsTimer.csproj.GenerateResource.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\FormsTimer\FormsTimer\obj\Debug\FormsTimer.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\FormsTimer\FormsTimer\obj\Debug\FormsTimer.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\FormsTimer\FormsTimer\obj\Debug\FormsTimer.pdb

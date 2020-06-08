@@ -1,0 +1,7 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Constructores-Ejercicio\Constructores-Ejercicio\bin\Debug\Constructores-Ejercicio.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Constructores-Ejercicio\Constructores-Ejercicio\bin\Debug\Constructores-Ejercicio.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Constructores-Ejercicio\Constructores-Ejercicio\bin\Debug\Constructores-Ejercicio.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Constructores-Ejercicio\Constructores-Ejercicio\obj\Debug\Constructores-Ejercicio.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Constructores-Ejercicio\Constructores-Ejercicio\obj\Debug\Constructores-Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Constructores-Ejercicio\Constructores-Ejercicio\obj\Debug\Constructores-Ejercicio.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Constructores-Ejercicio\Constructores-Ejercicio\obj\Debug\Constructores-Ejercicio.pdb

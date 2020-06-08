@@ -1,0 +1,6 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Campos-Propiedades-Constructores\Campos-Propiedades-Constructores\bin\Debug\Campos-Propiedades-Constructores.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Campos-Propiedades-Constructores\Campos-Propiedades-Constructores\bin\Debug\Campos-Propiedades-Constructores.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Campos-Propiedades-Constructores\Campos-Propiedades-Constructores\obj\Debug\Campos-Propiedades-Constructores.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Campos-Propiedades-Constructores\Campos-Propiedades-Constructores\obj\Debug\Campos-Propiedades-Constructores.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Campos-Propiedades-Constructores\Campos-Propiedades-Constructores\obj\Debug\Campos-Propiedades-Constructores.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Campos-Propiedades-Constructores\Campos-Propiedades-Constructores\obj\Debug\Campos-Propiedades-Constructores.pdb

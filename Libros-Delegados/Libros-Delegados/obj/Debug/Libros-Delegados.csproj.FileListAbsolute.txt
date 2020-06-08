@@ -1,0 +1,7 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Libros-Delegados\Libros-Delegados\bin\Debug\Libros-Delegados.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Libros-Delegados\Libros-Delegados\bin\Debug\Libros-Delegados.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Libros-Delegados\Libros-Delegados\bin\Debug\Libros-Delegados.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Libros-Delegados\Libros-Delegados\obj\Debug\Libros-Delegados.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Libros-Delegados\Libros-Delegados\obj\Debug\Libros-Delegados.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Libros-Delegados\Libros-Delegados\obj\Debug\Libros-Delegados.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Libros-Delegados\Libros-Delegados\obj\Debug\Libros-Delegados.pdb

@@ -1,0 +1,7 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Objetos\Objetos\bin\Debug\Objetos.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Objetos\Objetos\bin\Debug\Objetos.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Objetos\Objetos\bin\Debug\Objetos.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Objetos\Objetos\obj\Debug\Objetos.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Objetos\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Objetos\Objetos\obj\Debug\Objetos.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Objetos\Objetos\obj\Debug\Objetos.pdb

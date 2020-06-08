@@ -1,0 +1,7 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Colecciones\Colecciones\bin\Debug\Colecciones.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Colecciones\Colecciones\bin\Debug\Colecciones.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Colecciones\Colecciones\bin\Debug\Colecciones.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Colecciones\Colecciones\obj\Debug\Colecciones.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Colecciones\Colecciones\obj\Debug\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Colecciones\Colecciones\obj\Debug\Colecciones.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Colecciones\Colecciones\obj\Debug\Colecciones.pdb

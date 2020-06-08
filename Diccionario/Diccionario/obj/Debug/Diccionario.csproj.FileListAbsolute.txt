@@ -1,0 +1,7 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Diccionario\Diccionario\bin\Debug\Diccionario.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Diccionario\Diccionario\bin\Debug\Diccionario.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Diccionario\Diccionario\bin\Debug\Diccionario.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Diccionario\Diccionario\obj\Debug\Diccionario.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Diccionario\Diccionario\obj\Debug\Diccionario.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Diccionario\Diccionario\obj\Debug\Diccionario.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Diccionario\Diccionario\obj\Debug\Diccionario.pdb

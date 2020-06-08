@@ -1,0 +1,7 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb

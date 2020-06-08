@@ -1,0 +1,7 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Intefaces\Intefaces\bin\Debug\Intefaces.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Intefaces\Intefaces\bin\Debug\Intefaces.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Intefaces\Intefaces\bin\Debug\Intefaces.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Intefaces\Intefaces\obj\Debug\Intefaces.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Intefaces\Intefaces\obj\Debug\Intefaces.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Intefaces\Intefaces\obj\Debug\Intefaces.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Intefaces\Intefaces\obj\Debug\Intefaces.pdb

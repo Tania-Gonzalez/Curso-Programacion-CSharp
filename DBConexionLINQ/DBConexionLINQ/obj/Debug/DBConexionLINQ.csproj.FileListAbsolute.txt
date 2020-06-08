@@ -1,0 +1,10 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\DBConexionLINQ\DBConexionLINQ\bin\Debug\DBConexionLINQ.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\DBConexionLINQ\DBConexionLINQ\bin\Debug\DBConexionLINQ.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\DBConexionLINQ\DBConexionLINQ\bin\Debug\DBConexionLINQ.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\DBConexionLINQ\DBConexionLINQ\obj\Debug\DBConexionLINQ.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\DBConexionLINQ\DBConexionLINQ\obj\Debug\DBConexionLINQ.Properties.Resources.resources
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\DBConexionLINQ\DBConexionLINQ\obj\Debug\DBConexionLINQ.csproj.GenerateResource.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\DBConexionLINQ\DBConexionLINQ\obj\Debug\DBConexionLINQ.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\DBConexionLINQ\DBConexionLINQ\obj\Debug\DBConexionLINQ.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\DBConexionLINQ\DBConexionLINQ\obj\Debug\DBConexionLINQ.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\DBConexionLINQ\DBConexionLINQ\obj\Debug\DBConexionLINQ.CRUD.resources

@@ -1,0 +1,10 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Servicios\Servicios\bin\Debug\Servicios.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Servicios\Servicios\bin\Debug\Servicios.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Servicios\Servicios\bin\Debug\Servicios.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Servicios\Servicios\bin\Debug\Topshelf.dll
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Servicios\Servicios\bin\Debug\Topshelf.xml
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Servicios\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Servicios\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Servicios\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Servicios\Servicios\obj\Debug\Servicios.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Servicios\Servicios\obj\Debug\Servicios.pdb

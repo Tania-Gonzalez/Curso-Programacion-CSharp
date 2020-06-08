@@ -1,0 +1,7 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb

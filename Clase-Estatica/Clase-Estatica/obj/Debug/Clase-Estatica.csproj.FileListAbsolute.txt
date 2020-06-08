@@ -1,0 +1,7 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Clase-Estatica\Clase-Estatica\bin\Debug\Clase-Estatica.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Clase-Estatica\Clase-Estatica\bin\Debug\Clase-Estatica.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Clase-Estatica\Clase-Estatica\bin\Debug\Clase-Estatica.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Clase-Estatica\Clase-Estatica\obj\Debug\Clase-Estatica.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Clase-Estatica\Clase-Estatica\obj\Debug\Clase-Estatica.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Clase-Estatica\Clase-Estatica\obj\Debug\Clase-Estatica.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Clase-Estatica\Clase-Estatica\obj\Debug\Clase-Estatica.pdb

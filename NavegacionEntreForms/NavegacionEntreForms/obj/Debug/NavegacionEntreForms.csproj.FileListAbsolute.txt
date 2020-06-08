@@ -1,0 +1,11 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\NavegacionEntreForms\NavegacionEntreForms\obj\Debug\NavegacionEntreForms.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\NavegacionEntreForms\NavegacionEntreForms\obj\Debug\NavegacionEntreForms.FormInicioSesion.resources
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\NavegacionEntreForms\NavegacionEntreForms\obj\Debug\NavegacionEntreForms.Properties.Resources.resources
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\NavegacionEntreForms\NavegacionEntreForms\obj\Debug\NavegacionEntreForms.csproj.GenerateResource.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\NavegacionEntreForms\NavegacionEntreForms\obj\Debug\NavegacionEntreForms.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\NavegacionEntreForms\NavegacionEntreForms\bin\Debug\NavegacionEntreForms.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\NavegacionEntreForms\NavegacionEntreForms\bin\Debug\NavegacionEntreForms.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\NavegacionEntreForms\NavegacionEntreForms\bin\Debug\NavegacionEntreForms.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\NavegacionEntreForms\NavegacionEntreForms\obj\Debug\NavegacionEntreForms.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\NavegacionEntreForms\NavegacionEntreForms\obj\Debug\NavegacionEntreForms.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\NavegacionEntreForms\NavegacionEntreForms\obj\Debug\NavegacionEntreForms.FormInicio.resources

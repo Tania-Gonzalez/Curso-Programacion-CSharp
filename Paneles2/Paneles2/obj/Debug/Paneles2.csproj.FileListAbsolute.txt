@@ -1,0 +1,12 @@
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Paneles2\Paneles2\obj\Debug\Paneles2.csprojAssemblyReference.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Paneles2\Paneles2\obj\Debug\Paneles2.FormInicioSesion.resources
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Paneles2\Paneles2\obj\Debug\Paneles2.FormInicio.resources
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Paneles2\Paneles2\obj\Debug\Paneles2.Principal.resources
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Paneles2\Paneles2\obj\Debug\Paneles2.Properties.Resources.resources
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Paneles2\Paneles2\obj\Debug\Paneles2.csproj.GenerateResource.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Paneles2\Paneles2\obj\Debug\Paneles2.csproj.CoreCompileInputs.cache
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Paneles2\Paneles2\bin\Debug\Paneles2.exe.config
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Paneles2\Paneles2\bin\Debug\Paneles2.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Paneles2\Paneles2\bin\Debug\Paneles2.pdb
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Paneles2\Paneles2\obj\Debug\Paneles2.exe
+C:\Users\CruzG\Desktop\MEGA\Curso de Programador en C# - Capacitate para el empleo\Paneles2\Paneles2\obj\Debug\Paneles2.pdb
